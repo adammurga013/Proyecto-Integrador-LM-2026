@@ -1,1 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--Estadísticas de Malaga CF-->
+<estadisticasMalaga propietario = "adammurga013">
+    <delanteros id = "Joaquin">
+        <contribuciones formato="goles">5</contribuciones>
+        <asistencias>15</asistencias>    
+        <valor moneda="EUR">9650000.49</valor>
+    </delanteros>
+    <delanteros id = "Niño">
+        <contribuciones formato="goles">10</contribuciones>
+        <asistencias>12</asistencias>
+        <valor moneda="EUR">10500000.36</valor>
+    </delanteros>
+    <delanteros id = "Chupe">
+        <contribuciones formato="goles">20</contribuciones>
+        <asistencias>3</asistencias>
+        <valor moneda="EUR">12000000.00</valor>
+    </delanteros>
+    <campos/>
+</estadisticasMalaga>
