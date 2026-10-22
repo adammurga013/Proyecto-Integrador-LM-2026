@@ -28,3 +28,16 @@ Lo que le falta a mi index.html:
 - Metadatos en el head: description, keywords y author.
 - Bloques div comentados que organicen las secciones.
 - Jerarquía de títulos completa (h2 con h3 dentro) y elementos como blockquote, pre y entidades.
+
+### Validación W3C
+
+| Página | Errores del validador | Cómo lo corregí |
+|---|---|---|
+| index.html | Sin errores | — |
+| jugadores.html | Sin errores | — |
+| posiciones.html | Sin errores | — |
+| historia.html | Sin errores | — |
+
+### Qué he hecho en esta unidad
+
+He completado la cabecera de index.html con todos los metadatos y he reorganizado el body en bloques div comentados con una jerarquía de títulos sin saltos. He añadido una cita, una ficha con pre y entidades HTML. Después he diseñado el mapa del sitio y he creado tres páginas nuevas, una de ellas con todos los datos de datos.xml, y he validado todas en el W3C hasta dejarlas sin errores.
