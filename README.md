@@ -16,6 +16,7 @@ He elegido fútbol porque es un deporte que me gusta ver y practicar, y porque c
 ## Palabra del día
 
 metas
+contexto
 
 ## Qué he hecho en esta entrega.
 
